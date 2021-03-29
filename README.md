@@ -1,3 +1,3 @@
 # helloWorld
 Getting started on git-hub
-Editing firs file
+Editing first file
